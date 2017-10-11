@@ -1,0 +1,10 @@
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Release\HW1.exe.config
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Release\HW1.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Release\HW1.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.csprojResolveAssemblyReference.cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.Form1.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.Properties.Resources.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.ShowHistogram.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.csproj.GenerateResource.Cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Release\HW1.pdb
